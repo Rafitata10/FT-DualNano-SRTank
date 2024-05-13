@@ -1,15 +1,1 @@
-
-
-
-
-p=port 4 bits
-
-dd= digital 00 or 01 
-aa= analogic val
-
->0p>dd
->1p<dd
->2p>aa>aa
->3p<aa<aa
-
-
+New modify version of PICSimLab SRTank. Added new functions as a new flag that shows if the stirrer's engine it's on, and a new variable that shows the revolutions (rpm) of the engine. Moreover, the defaults settings have been editings following the needs of the FT_DualNano project.
